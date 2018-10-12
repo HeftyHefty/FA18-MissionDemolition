@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FollowCam : MonoBehaviour
-{
+public class FollowCam : MonoBehaviour {
     static public GameObject POI;
 
     [Header("Set in Inspector")]
